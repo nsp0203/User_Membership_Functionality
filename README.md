@@ -23,3 +23,11 @@ The goal of this project is to implement a user membership system for an HTML-ba
 
 6) Logout Functionality:
   When the user clicks on the "Logout" link in the dropdown menu, they are logged out from their account and redirected to the homepage.
+
+# Some Screenshots Of The Website
+
+Home Page
+![Screenshot (302)](https://github.com/nsp0203/User_Membership_Functionality/assets/130475689/e8628156-cd3c-4c9a-907d-53ac2c34449b)
+
+
+
