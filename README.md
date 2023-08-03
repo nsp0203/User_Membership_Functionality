@@ -6,10 +6,10 @@ The goal of this project is to implement a user membership system for an HTML-ba
 # Task Flow:
 
 1) User Registration:
-  Users can register on the website by providing necessary details such as username, email, first name, last name, and password. Upon successful registration, the      system generates an activation/verification email and sends it to the user's registered email address.
+  Users can register on the website by providing necessary details such as username, email, first name, last name, and password. Upon successful registration, the    system generates an activation/verification email and sends it to the user's registered email address.
 
 2) Email Verification:
-  When the user receives the activation/verification email, it contains a unique link to verify their email address. Clicking on this link redirects the user to        the website, and the system verifies and activates the user's account.
+  When the user receives the activation/verification email, it contains a unique link to verify their email address. Clicking on this link redirects the user to      the website, and the system verifies and activates the user's account.
 
 3) Login:
   Once the user's email is verified and the account is activated, they can log in to their profile.
@@ -34,6 +34,11 @@ User Registation
 
 ![Screenshot (303)](https://github.com/nsp0203/User_Membership_Functionality/assets/130475689/ca17830a-485a-4271-8303-d74bc50e6548)
 
+Email Verification
+
+![Screenshot (314)](https://github.com/nsp0203/User_Membership_Functionality/assets/130475689/9dceb7cd-2611-434a-8323-d1524c663443)
+
+
 Login
 
 ![Screenshot (304)](https://github.com/nsp0203/User_Membership_Functionality/assets/130475689/82689b17-2da9-4e9a-bfd9-4707bc2e4d49)
@@ -41,6 +46,10 @@ Login
 Reset Password
 
 ![Screenshot (311)](https://github.com/nsp0203/User_Membership_Functionality/assets/130475689/95114495-4f94-4f3a-8a4c-fcbe278e51d7)
+
+Password Reset link
+
+![Screenshot (315)](https://github.com/nsp0203/User_Membership_Functionality/assets/130475689/2372db35-6dec-481c-ac16-fa46adbf6445)
 
 After Login
 
