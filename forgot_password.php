@@ -22,12 +22,12 @@
     		//Server settings
 	    	$mail->isSMTP();                                            //Send using SMTP
 		    $mail->Host       = 'smtp.gmail.com';                     //Set the gmail server to send through
-		    $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
+		    $mail->SMTPAuth   = true;                                   
 		    $mail->Username   = 'nspatil2403@gmail.com';                     //gmail username
 		    $mail->Password   = 'yvagarqsvpuuhlbm';                               //gmail password
-		    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
-		    $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
-
+		    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            
+		    $mail->Port       = 465;                                    
+			
 		    //Recipients
 		    $mail->setFrom('nspatil2403@gmail.com', 'NSP WebTech');
 		    $mail->addAddress($email);     
